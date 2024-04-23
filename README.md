@@ -22,6 +22,35 @@ Vous avez deux options pour utiliser CYPO :
 
 2. **Compiler le code source** : Vous pouvez compiler le code source (`app.py` et `Process.py`) à condition d'avoir Python et toutes les bibliothèques requises installées. Assurez-vous d'avoir installé les dépendances suivantes : PyQt5, PyMuPDF, OpenCV, Google Cloud Vision API et OpenAI API.
 
+## Configuration
+
+L'application nécessite deux fichiers de configuration :
+
+1. `config/vision_config.json` : Ce fichier doit contenir vos identifiants de l'API Google Cloud Vision.
+```json
+{
+  "api_key": "VOTRE CLE API",
+  "model": "gpt-4-turbo-2024-04-09"
+ }
+```
+   
+2. `config/gpt_config.json` : Ce fichier doit contenir votre clé API OpenAI et le modèle GPT souhaité (si vous utilisez un modèle personnalisé).
+```json
+{
+  "type": "service_account",
+  "project_id": "REMPLACER ICI",
+  "private_key_id": "REMPLACER ICI",
+  "private_key": "REMPLACER ICI",
+  "client_email": "REMPLACER ICI",
+  "client_id": "REMPLACER ICI",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-vision-students%40skillful-coast-419914.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+```
+
 ## Ressources
 
 - Le dossier `config` contient des ressources telles que `icon.ico` et `logo.png` utilisées dans l'application.
@@ -55,13 +84,6 @@ Au cours du traitement, quatre dossiers sont créés pour enregistrer l'état du
 ![Exemple de sortie JSON](https://github.com/Ashitaka06/CYPO/assets/100866077/8d52c895-ef4b-4085-9483-50f20ba72287)
 
 *Exemple de sortie JSON générée par CYPO*
-
-## Configuration
-
-L'application nécessite deux fichiers de configuration :
-
-1. `config/vision_config.json` : Ce fichier doit contenir vos identifiants de l'API Google Cloud Vision.
-2. `config/gpt_config.json` : Ce fichier doit contenir votre clé API OpenAI et le modèle GPT souhaité (si vous utilisez un modèle personnalisé).
 
 ## Contribution
 
