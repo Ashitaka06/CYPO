@@ -26,15 +26,15 @@ Vous avez deux options pour utiliser CYPO :
 
 L'application nécessite deux fichiers de configuration :
 
-1. `config/vision_config.json` : Ce fichier doit contenir vos identifiants de l'API Google Cloud Vision.
+1. `config/gpt_config.json` : Ce fichier doit contenir votre clé API OpenAI et le modèle GPT souhaité (si vous utilisez un modèle personnalisé).
 ```json
 {
   "api_key": "VOTRE CLE API",
-  "model": "gpt-4-turbo-2024-04-09"
+  "model": "MODELE SOUHAITE (EXEMPLE: gpt-4-turbo-2024-04-09)"
  }
 ```
    
-2. `config/gpt_config.json` : Ce fichier doit contenir votre clé API OpenAI et le modèle GPT souhaité (si vous utilisez un modèle personnalisé).
+2. `config/vision_config.json` : Ce fichier doit contenir vos identifiants de l'API Google Cloud Vision.
 ```json
 {
   "type": "service_account",
