@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "formal-guru-419922",
+    "private_key_id": "2051b0e3b41f9db644af3f2c27760af3fcc9aefb",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH+sRl/XFAMvFK\nhrBoNDilF4UccedbDu12/Gv8WmPo8sr6bwZWL39+1MTmZhNQqXJSON1+pcM9QntK\nXIXU4XtwufJyo1yHruqIDUXD8pyhqUw3VNNddnWPjoAifSs5b7PjNvlnHt1bCQzQ\nHOBWaN28Ej0MnGLRPB074ZQGYNpNV0VrED7JivxD5uZ82BH8MyCMqCr8v7lnUBxh\n5Qn0Cq500MQ6+MjaEB84ZBPF8cZ0HlHD+jZY4WJog7aTYqevuZyNqWcMLz0btfYa\nFNGQlYth7srqK1PCEEIxVvHBCsNhEMGEsYPiiTIq/+CY48fIY29sbT3drY4dHedp\nfXyA4UZvAgMBAAECggEAAqtxQ8V6wqiln/4q3i2f7iW+mS2GSG68xBknrEMi1q5h\nRd3iqfPijx4saJKkSBjYGMVFNYf8niy+fPqPOnYiVNQDwghlADNwgQHsWlOApUII\nPs8Jo1OZhXNIG1xO9rA9nRdIPojoxFNymoYZnmrJbez2OX/ImqnAmihpgjUEbzyX\nH0S/iWVzmJocLRWxh4GWMaO4d8z5+6WvM9TlA+llXpP/6bkaDZz92vMewjJ8VJBY\noJ3iI2qX5hoLAqeGC3PHzbiRRyQnvcF2He1epvoWgb7g2x3hH3XP29FeEdP5baHm\nXf/tEQmJBWSHqE1P7MUd/QgSKL2rZDNmV8d2zPpZwQKBgQD+KTcumZDHn5bV3HsW\nMK0V6gRMqqghsiBnVOAfehZjqBbYWeVBQY1bEdJPYZp8wzo6uRPQXvGxVS9/68BP\nSkCbhO7ot1QAmdO16yxDTOY+wansM8mC0xtp1hhYT8+b4YXEvfKfjuRPzz/+3f5t\nWZnZXPMwq1b4BZZP58kKDgrUawKBgQDJbTDfyTlvu1P8pVlYi2jsHKdLhXyTseD8\n9bBmF0DzjwnzWu1ltfGvUDSy4EC8dMoZUH8Fn2NWOABB1ev7mG/AiqQ6vvGx1xP6\nIz+HPzZQL5xr2rcvjqgCpxGSVghn7rckz/hNYawn1R/d+bUxmqOJ8MNHer2mWyDq\na5OqZHS3DQKBgQD2HiVQm+amWHUw/YO39kT2DppBP5T2pE5aoccy0//wWypcMZke\nOwNOaBCXTDXUkRzHFsgIJJi5l3sazcl5PrcXon/TnQvcVRm9dVF0jnf713/buj5t\n0E4gi/EhO5AYLChkX2geeLnASzp2bLRfYb/oy+i3fYQHQynOkO6OLRDxpwKBgBV0\nuSENaT3aoX6nClZhO0LzZmqoBHYjG4k2jpzBW1zWXsP6apFMCTuYepSXSK4KbsC1\nj2JE8Srs+jIJHIMHYNgMrKPJVSuRcoJRoOHCPQHboHjoqly5gHIP49JHscuIZR/Z\nu2RaxCDWFffqMn/fLg5yhAqoK21+BYqS/P7Ihpo9AoGAXqjWV84Cam+u1y9RKAro\nqIXCwyQL5jDbF+JIcxwuITU0fyl46u7W/RTLSyccPu3fr5q+OY+dIKPjLRetm3xN\n8Oa2yl3k/6LgBTwubYtgrwoIKaNa1yPV+/BQnidhGMzG7/VyGyHmpOfUErDf50OH\nZFpw2LtN1evt+/yC/I17p4Y=\n-----END PRIVATE KEY-----\n",
+    "client_email": "tenta-126@formal-guru-419922.iam.gserviceaccount.com",
+    "client_id": "104709570004708016382",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tenta-126%40formal-guru-419922.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
