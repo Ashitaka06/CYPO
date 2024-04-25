@@ -16,13 +16,16 @@ CYPO est un outil puissant qui convertit les fichiers PDF en format JSON structu
 
 ## Options d'installation
 
-Vous avez deux options pour utiliser CYPO :
+Vous avez deux options pour installer CYPO :
 
-1. **Télécharger l'exécutable** : Téléchargez le dossier `_internal` contenant toutes les dépendances nécessaires et placez-le dans le même dossier que le fichier exécutable `CYPO.exe`.
+**Télécharger le projet** : Téléchargez l'achive zip contenant tout le code source du projet Github, puis dézippez là sur votre machine.
+[Téléchargement de CYPO sur Github](https://github.com/Ashitaka06/CYPO/assets/100866077/3cf1dc64-7b67-4e2d-895a-04e7d041c982)
 
-2. **Compiler le code source** : Vous pouvez compiler le code source (`app.py` et `Process.py`) à condition d'avoir Python et toutes les bibliothèques requises installées. Assurez-vous d'avoir installé les dépendances suivantes : PyQt5, PyMuPDF, OpenCV, Google Cloud Vision API et OpenAI API.
+1. **Option user-friendly** : Le fichier CYPO.exe est une version déjà compilée du code. Il ne fonctionnera pas sans le dossier _internal qui contient toutes les dépendances Python.
 
-## Configuration
+2. **Option développeur** : Vous pouvez compiler le code source (`app.py`) à condition d'avoir Python et toutes les bibliothèques requises installées.
+
+## Configuration (Activation des APIs Google Vision + OpenAI)
 
 L'application nécessite deux fichiers de configuration :
 
