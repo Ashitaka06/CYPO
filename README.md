@@ -14,12 +14,12 @@ CYPO est un outil puissant qui convertit les fichiers PDF en format JSON structu
 - Affichage de la progression en temps réel et des journaux pendant la conversion
 - Sortie des fichiers JSON dans un dossier dédié pour un accès facile
 
-## Options d'installation
-
-Vous avez deux options pour installer CYPO :
+## Installation
 
 **Télécharger le projet** : Téléchargez l'achive zip contenant tout le code source du projet Github, puis dézippez là sur votre machine.
-[Téléchargement de CYPO sur Github](https://github.com/Ashitaka06/CYPO/assets/100866077/3cf1dc64-7b67-4e2d-895a-04e7d041c982)
+![Téléchargement de CYPO sur Github](https://github.com/Ashitaka06/CYPO/assets/100866077/3cf1dc64-7b67-4e2d-895a-04e7d041c982)
+
+Vous avez deux options pour installer CYPO :
 
 1. **Option user-friendly** : Le fichier CYPO.exe est une version déjà compilée du code. Il ne fonctionnera pas sans le dossier _internal qui contient toutes les dépendances Python.
 
