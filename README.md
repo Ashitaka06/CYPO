@@ -29,7 +29,7 @@ Vous avez deux options pour installer CYPO :
 
 Ne pouvant pas pas upload des clés API sur ce dépôt Github qui est public, l'application nécessite deux fichiers de configuration qu'il vous faudra créer dans le dossier config :
 
-1. `config/gpt_config.json` : Ce fichier doit contenir votre clé API OpenAI trouvable ici https://platform.openai.com/api-keys et le modèle GPT souhaité (si vous utilisez un modèle personnalisé).
+1. `config/gpt_config.json` : Ce fichier doit contenir votre clé API OpenAI trouvable ici https://platform.openai.com/api-keys et le modèle GPT souhaité (si vous utilisez un modèle personnalisé en choisissant le mode 'Google Vision OCR + Modèle GPT personnalisé').
 ```json
 {
   "api_key": "VOTRE CLE API",
